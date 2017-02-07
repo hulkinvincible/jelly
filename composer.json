@@ -1,5 +1,5 @@
 {
-  "name" : "Jelly Framework",
+  "name" : "hulkinvincible/jelly",
   "description" : "Quickly PHP Framework based on lazy load",
   "version" : "1.0.0",
   "type" : "library",
