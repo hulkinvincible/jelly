@@ -1,7 +1,7 @@
 {
   "name" : "hulkinvincible/jelly",
   "description" : "Quickly PHP Framework based on lazy load",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "type" : "library",
   "keywords" : ["framework", "microframework"],
   "time" : "2017-02-24",
