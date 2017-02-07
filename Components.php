@@ -14,7 +14,7 @@ interface iComponents {
     public function __destruct();
 }
 
-abstract class Components implements iComponents extends Framework
+abstract class Components extends Framework implements iComponents
 {
 
     public static function initial($config = null) {
